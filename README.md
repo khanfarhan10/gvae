@@ -80,9 +80,11 @@ The dataset can be downloaded from [here](https://www.cancerimagingarchive.net/)
 If you find this code useful in your research, please consider citing the paper:
 
 ```
-@article{sagargenerate,
-  title={Generate High Fidelity Images With Generative Variational Autoencoder},
-  author={Sagar, Abhinav}
+@article{sagar2020generate,
+  title={Generate High Resolution Images With Generative Variational Autoencoder},
+  author={Sagar, Abhinav},
+  journal={arXiv preprint arXiv:2008.10399},
+  year={2020}
 }
 ```
 
