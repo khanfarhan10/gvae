@@ -1,10 +1,7 @@
 # Generate High Resolution Images With Generative Variational Autoencoder
 Code for the paper `Generate High Resolution Images With Generative Variational Autoencoder`.
 
-Link to [Paper](https://abhinavsagar.github.io/files/gvae.pdf).
-
-Link to [Blog](https://towardsdatascience.com/generative-variational-autoencoder-for-high-resolution-image-synthesis-48dd98d4dcc2).
-
+Link to [Paper](https://arxiv.org/pdf/2008.10399).
 
 ## Abstract
 
