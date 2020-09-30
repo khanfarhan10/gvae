@@ -1,7 +1,7 @@
 # Generate High Resolution Images With Generative Variational Autoencoder
 Code for the paper `Generate High Resolution Images With Generative Variational Autoencoder`.
 
-Link to [Paper](https://arxiv.org/pdf/2008.10399).
+https://arxiv.org/pdf/2008.10399
 
 ## Abstract
 
