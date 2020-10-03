@@ -38,13 +38,11 @@ The dataset can be downloaded from [here](https://www.cancerimagingarchive.net/)
 
 ## Usage
 
-`pip install tensorflow-gpu numpy scipy matplotlib tqdm`
+Download dataset: `python download_mnist.py`
 
-`python tools/download_mnist.py`
+Train: `python train.py`
 
-`python gvae/main/train.py`
-
-`python gvae/main/test.py`
+Test: `python test.py`
 
 ## Experiments
 
@@ -56,19 +54,19 @@ The dataset can be downloaded from [here](https://www.cancerimagingarchive.net/)
 
 ## Results
 
-### 1024 × 1024 images generated using the CELEBA-HQ dataset
+### 1024 × 1024 images generated using the CELEBA-HQ dataset:
 
 ![results](images/g1.png)
 
-### 256 × 256 images generated using LSUN BEDROOM dataset
+### 256 × 256 images generated using LSUN BEDROOM dataset:
 
 ![results](images/g2.png)
 
-### Sample 256 × 256 images generated from different LSUN categories
+### Sample 256 × 256 images generated from different LSUN categories:
 
 ![results](images/g3.png)
 
-### Generated MNIST images a) GAN b) WGAN c) VAE d) GVAE
+### Generated MNIST images a) GAN b) WGAN c) VAE d) GVAE:
 
 ![results](images/img8.png)
 
@@ -87,9 +85,9 @@ BibTex:
 }
 ```
 
-APA:
+MLA:
 
-`Sagar, A. (2020). Generate High Resolution Images With Generative Variational Autoencoder. arXiv preprint arXiv:2008.10399.`
+`Sagar, Abhinav. "Generate High Resolution Images With Generative Variational Autoencoder." arXiv preprint arXiv:2008.10399 (2020).`
 
 ## License
 
