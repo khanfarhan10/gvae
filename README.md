@@ -24,11 +24,11 @@ The dataset can be downloaded from [here](https://www.cancerimagingarchive.net/)
 
 ## Network Architecture
 
-### Standard VAE vs our Model
+### Standard VAE vs our Model:
 
 ![results](images/img1.png)
 
-### Our network architecture
+### Our network architecture:
 
 ![results](images/img2.png)
 
