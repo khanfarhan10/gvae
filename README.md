@@ -56,15 +56,11 @@ Test: `python test.py`
 
 ### 1024 × 1024 images generated using the CELEBA-HQ dataset:
 
-![results](images/g1.png)
+![results](images/i.png)
 
-### 256 × 256 images generated using LSUN BEDROOM dataset:
+### 1024 × 1024 images generated using the CELEBA-HQ dataset:
 
-![results](images/g2.png)
-
-### Sample 256 × 256 images generated from different LSUN categories:
-
-![results](images/g3.png)
+![results](images/j.png)
 
 ### Generated MNIST images a) GAN b) WGAN c) VAE d) GVAE:
 
