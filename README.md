@@ -54,11 +54,11 @@ Test: `python test.py`
 
 ## Results
 
-### 1024 × 1024 images generated using the CELEBA-HQ dataset:
+### 128 × 128 images generated using the CELEBA-HQ dataset:
 
 ![results](images/i.png)
 
-### 1024 × 1024 images generated using the CELEBA-HQ dataset:
+### 128 × 128 images generated using the LSUN dataset:
 
 ![results](images/j.png)
 
